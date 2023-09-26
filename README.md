@@ -1,1 +1,1 @@
-# Minicurso-q_fin
+# Minicurso de Finanças Quantitativas
